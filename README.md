@@ -1,4 +1,4 @@
-# HybridEnergyForecastingAndTrading
+# Forecasting and Trading in Renewable Energy
 
 **Author**: Georgios Panagiotou  
 **Email**: Giorgosp2000@gmail.com  
