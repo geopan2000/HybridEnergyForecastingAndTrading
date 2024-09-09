@@ -42,6 +42,13 @@ In the trading track, three decision-making algorithms were evaluated. The scena
 25. **TT SSP.ipynb**: Notebook for forecasting the Single System Price.
 26. **Trading Track.ipynb**: In this notebook, we performed the scenario optimization strategy and calculated the revenue of all the other strategies.
 
+27. **SolarTrainTable.ipynb**: Notebook for data preprocessing (on the training period) of the solar weather data.  
+28. **SolarTestTable.ipynb**: Notebook for data preprocessing (on the test period) of the solar weather data.  
+29. **WindTrainTable.ipynb**: Notebook for data preprocessing (on the training period) of the wind weather data.  
+30. **WindTestTable.ipynb**: Notebook for data preprocessing (on the test period) of the wind weather data.  
+31. **Data_Remit.ipynb**: Data preprocessing of availability data provided by REMIT.  
+32. **DataToH5_20240129_20240519.ipynb**: An example of how we transformed the competition data into 2D dataframes.
+
 ### Data Access:
 In order for the above notebooks to run, the data and models are required. I can provide the necessary data upon request. Please reach out to my personal email: giorgosp2000@gmail.com.
 
