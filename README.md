@@ -44,3 +44,6 @@ In the trading track, three decision-making algorithms were evaluated. The scena
 
 ### Data Access:
 In order for the above notebooks to run, the data and models are required. I can provide the necessary data upon request. Please reach out to my personal email: giorgosp2000@gmail.com.
+
+### Dependencies:
+All required Python packages are listed in the requirements.txt
